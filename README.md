@@ -1,6 +1,4 @@
-# Hi 
-
-I’m Botakoz Zhanzakova, a .
+# Hi, Botakoz here 👩🏻‍💻
 
 - 🔭 
 - 🌱 
@@ -11,4 +9,4 @@ I’m Botakoz Zhanzakova, a .
 - [EmotiTask](https://github.com/)
 
 ## Connect
-[GitHub](https://github.com/) • [LinkedIn](https://linkedin.com/) • [Website](https://zhanzakovab.github.io)
+📫 Reach me via [LinkedIn](https://linkedin.com/) or see more on my [website](https://zhanzakovab.github.io)
