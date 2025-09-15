@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**zhanzakovab/zhanzakovab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Botakoz Zhanzakova, a backend engineer & AI researcher.
 
-Here are some ideas to get you started:
+- 🔭 Working on AI feedback quality
+- 🌱 Exploring Zola & building my portfolio
+- 💬 Ask me about LLMs, evals, and feedback loops
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Dissertation Visualizer](https://github.com/yourusername/dissertation-visualizer)
+- [EmotiTask](https://github.com/yourusername/emotitask)
+
+## Connect
+[GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourprofile)
