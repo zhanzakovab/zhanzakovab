@@ -1,14 +1,14 @@
 # Hi 
 
-I’m Botakoz Zhanzakova, a backend engineer & AI researcher.
+I’m Botakoz Zhanzakova, a .
 
-- 🔭 Working on AI feedback quality
-- 🌱 Exploring Zola & building my portfolio
-- 💬 Ask me about LLMs, evals, and feedback loops
+- 🔭 
+- 🌱 
+- 💬 
 
 ## Projects
-- [Dissertation Visualizer](https://github.com/yourusername/dissertation-visualizer)
-- [EmotiTask](https://github.com/yourusername/emotitask)
+- [Dissertation](https://github.com/)
+- [EmotiTask](https://github.com/)
 
 ## Connect
-[GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourprofile)
+[GitHub](https://github.com/) • [LinkedIn](https://linkedin.com/) • [Website]()
