@@ -11,4 +11,4 @@ I’m Botakoz Zhanzakova, a .
 - [EmotiTask](https://github.com/)
 
 ## Connect
-[GitHub](https://github.com/) • [LinkedIn](https://linkedin.com/) • [Website]()
+[GitHub](https://github.com/) • [LinkedIn](https://linkedin.com/) • [Website](https://zhanzakovab.github.io)
