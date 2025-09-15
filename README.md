@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 
 
 I’m Botakoz Zhanzakova, a backend engineer & AI researcher.
 
