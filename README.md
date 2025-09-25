@@ -16,7 +16,7 @@ With a BSc in *Media Technologies* and an MSc in *Business Analytics*, I bring a
 ## ⚙️ Tech Stack  
 
 **🚀 Languages**  
-Python · SQL · Swift  
+Python · R · SQL · Swift  
 <sub>Familiar with: C#, C++, Java</sub>  
 
 **🧰 Libraries & Tools**  
