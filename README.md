@@ -34,26 +34,25 @@ ETL Pipelines · API Integration · JSON Normalization · Supabase · Docker
 ## 📂 Projects  
 
 ### [🎓 AI-Generated Feedback QA Pipeline](https://github.com/zhanzakovab/QA_Pipeline_Keath.AI)
-- End-to-end evaluation pipeline for EdTech feedback generation  
-- Data preprocessing (nested JSON → structured `master_df`)  
-- Judge LLM with custom chain-of-thought prompts via DeepEval  
-- Revealed **systematic bias**: lower-scoring students consistently received weaker feedback  
+- Designed and delivered KEATH.AI’s first **LLM QA pipeline**, automating evaluation of **10K+ outputs** with DeepEval (G-Eval) + GPT-4o in Python.
+- Built preprocessing workflows and **Judge LLM prompts** (CoT, persona, few-shot), validating improvements through **A/B testing**.
+- Established **baseline KPIs**, reframing feedback quality as a **trackable product metric** and surfacing systematic bias against lower-scoring students.
 
 ### [🤖 EmotiTask (iOS AI App)](https://github.com/zhanzakovab/emotiTask)  
-- iOS app with SwiftUI + FastAPI backend  
-- Integrated OpenAI API for **MBTI-driven personalized task recommendations**  
+- Engineered a **full-stack iOS productivity app** with **SwiftUI** + **FastAPI backend**.
+- Integrated **OpenAI API** for MBTI-driven task recommendations and **Supabase** for authentication and data storage.
 
 ### [🗨️ NLP Tutor Quizbot](https://github.com/zhanzakovab/NLPQuizbot)
-- Gamified chatbot with **Gemini 1.5** (generation) + **Claude 3.5** (evaluation)  
-- Delivered validated, real-time quiz feedback  
+- Built a **gamified learning assistant** using Gemini 1.5 (generation) + Claude 3.5 (evaluation).
+- Delivered validated, real-time quiz feedback and improved pedagogical relevance with role-based and few-shot prompting. 
 
 ### [💬 Sentiment Analysis of Dating App Reviews](https://github.com/zhanzakovab/Sentiment-Analysis-of-Dating-Apps-Reviews)  
 - Processed **600k+ reviews** with TF-IDF, VADER, and Word2Vec  
-- Compared and tuned models (LogReg, SVM, Naive Bayes, FFNN)  
+- Benchmarked classifiers (LogReg, SVM, Naive Bayes, FFNN), tuning FFNN to reduce overfitting and improve generalisation.
 
 ### 🚲 Data-Driven Optimization for Seoul Public Bike System  
-- Forecasted bike demand with **Random Forest (93.3% accuracy)**  
-- Validated optimization strategies via scenario analysis, projecting **12% efficiency gain**  
+- Forecasted demand with **Random Forest (93.3% accuracy)** for Seoul’s bike-sharing system.
+- Applied **scenario and risk analysis**, projecting a **12% efficiency gain** in resource allocation.
 
 ---
 
