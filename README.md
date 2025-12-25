@@ -7,7 +7,7 @@ With a BSc in *Media Technologies* and an MSc in *Business Analytics*, I bring a
 
 ## 🔄 Recently  
 - 🎓 Finished **MSc Business Analytics at UCL** 
-- 🧪 Built a **QA pipeline for 8,600+ LLM outputs** at an EdTech startup, translating feedback theory into 4 measurable metrics (Actionability, Specificity, Rubric Alignment, Factual Consistency)  
+- 🧪 Built a **QA pipeline for 10,000+ LLM outputs** at an EdTech startup, translating feedback theory into 4 measurable metrics (Actionability, Specificity, Rubric Alignment, Factual Consistency)  
 - 💡 Explored AI and data projects — from **sentiment analysis of 600k+ app reviews** to **gamified AI tutors** and **full-stack iOS apps**  
 - 🌍 Continuing to expand skills across **AI engineering and product development**  
 
